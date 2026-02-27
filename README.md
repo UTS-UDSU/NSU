@@ -1,2 +1,1 @@
 # NSU
-print "Hello, world!"
